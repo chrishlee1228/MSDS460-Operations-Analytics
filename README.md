@@ -1,2 +1,3 @@
 # MSDS460
-Decision Analytics
+Decision Analytics with Thomas Miller
+
